@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Capa do projeto" width="90%" src="./.github/banner.png" />
+ <img alt="desafio  ignite 01 " title="#desafio01" src="src/assets/banner.png" />
 </p>
 
 ## 💻 Detalhes do Desafio
